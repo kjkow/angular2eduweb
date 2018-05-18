@@ -1,0 +1,26 @@
+{
+  "playlists": [
+    {
+      "id": 1,
+      "name": "The best of EduWeb!",
+      "tracks": [],
+      "color": "#FF0000",
+      "favourite": 0
+    },
+    {
+      "id": 2,
+      "name": "Angular Greatest Hits 2",
+      "tracks": [],
+      "color": "#FFFF00",
+      "favourite": 1
+    },
+    {
+      "name": "Nowa playlista 23",
+      "tracks": [],
+      "color": "#43bca4",
+      "favourite": false,
+      "category": "Rockowa",
+      "id": 3
+    }
+  ]
+}
