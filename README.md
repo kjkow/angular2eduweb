@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bf93b9db52a5429587d6a8bfb39c4fad)](https://www.codacy.com/app/kjkow/angular2eduweb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kjkow/angular2eduweb&amp;utm_campaign=Badge_Grade)
 # Projekt1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0-rc.1.
